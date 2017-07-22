@@ -11,4 +11,6 @@ header {
 h1 {
     background-color: grey;
     margin-top: -8px;
+    background-size: cover;
+    
 }
